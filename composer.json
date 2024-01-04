@@ -19,7 +19,7 @@
     },
     "require": {
         "php": ">=5.3.3",
-        "smarty/smarty": ">=3.*"
+        "smarty/smarty": "^3.* || ^4.*"
     },
     "require-dev": {
         "zendframework/zendframework": "2.*"
